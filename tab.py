@@ -1,5 +1,4 @@
 #!/usr/bin/python
-# python tab file
   
 import sys
 import readline
